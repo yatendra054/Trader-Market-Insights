@@ -54,10 +54,11 @@ This repository contains the analysis and strategic findings from a study of two
 
 
 ## 📁 Repository Structure
-Yatendra
-├── notebook.ipynb
-Needed
-├── csv/
-├── output/
-Readme.md
-Licence
+Yatendra/
+├── notebook.ipynb         
+Needed/
+├── csv/                   
+├── output/               
+README.md                
+LICENSE           
+
