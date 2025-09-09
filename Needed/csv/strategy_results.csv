@@ -1,0 +1,6 @@
+	Strategy	Avg Profit	Trade Count
+0	Trade during Greed/Extreme Greed	104.44783351339207	16913
+1	Avoid Extreme Fear	49.27073981984031	208898
+2	Trade top coin: @107	92.82184979381168	29992
+3	Trade at best hour: 18.0	73.79932019512911	3408
+4	Trade SELL only	60.71380324168878	108528
